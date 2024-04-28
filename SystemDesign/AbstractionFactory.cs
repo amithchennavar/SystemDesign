@@ -56,6 +56,7 @@ namespace SystemDesign
         public string UsefulFunctionA()
         {
             return "The result of the product A2.";
+            //productA2
         }
     }
 
